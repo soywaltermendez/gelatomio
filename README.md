@@ -26,4 +26,4 @@ The site is deployed using GitHub Pages and can be accessed at:
 
 ## 📝 License
 
-All rights reserved © 2024 Gelato Mio 
+All rights reserved © 2025 Gelato Mio 
